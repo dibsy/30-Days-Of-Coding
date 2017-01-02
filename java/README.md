@@ -7,7 +7,7 @@
 ### Day   2: Operators
 ### Day   3: Intro to Conditional Statements
 ### Day   4: Class vs Instance
-### Day   5: Loops
+### Day   5: Loops					  Done ( 2/2/2017 )
 ### Day   6: Let's Review
 ### Day   7: Arrays
 ### Day   8: Dictonaries and Maps
