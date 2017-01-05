@@ -2,14 +2,14 @@
 
 ## Begining my daily routine of coding 1 problem per day
 ### Day_Num: Problems                                     Status
-### Day   0: Hello World                                  Done ( 1/2/2017 )
-### Day   1: Datatypes                                    Done ( 1/2/2017 )
+### Day   0: Hello World                                  Done ( 1/1/2017 )
+### Day   1: Datatypes                                    Done ( 1/1/2017 )
 ### Day   2: Operators
 ### Day   3: Intro to Conditional Statements
 ### Day   4: Class vs Instance
-### Day   5: Loops					  Done ( 2/2/2017 )
+### Day   5: Loops					  Done ( 2/1/2017 )
 ### Day   6: Let's Review
-### Day   7: Arrays
+### Day   7: Arrays					  Done ( 3/1/2017 )
 ### Day   8: Dictonaries and Maps
 ### Day   9: Recursion
 ### Day  10: Binary Numbers
