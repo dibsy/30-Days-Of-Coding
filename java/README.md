@@ -11,8 +11,8 @@
 ### Day   6: Let's Review                                 Done ( 1/1/2017 )
 ### Day   7: Arrays					                              Done ( 3/1/2017 )
 ### Day   8: Dictonaries and Maps                         Done ( 7/1/2017 )
-### Day   9: Recursion
-### Day  10: Binary Numbers
+### Day   9: Recursion					  Done ( 10/1/2017)
+### Day  10: Binary Numbers				  Done ( 10/1/2017)
 ### Day  11: 2D Arrays
 ### Day  12: Inheritence
 ### Day  13: Abstract Classes
