@@ -16,7 +16,7 @@
 ### Day  11: 2D Arrays					  Done ( 21/1/2017)
 ### Day  12: Inheritence				  
 ### Day  13: Abstract Classes
-### Day  14: Scope
+### Day  14: Scope					  Done ( 21/1/2017)
 ### Day  15: LinkedLists
 ### Day  16: Exceptions - String to Integer		  Done ( 16/1/2017)
 ### Day  17: More Exceptions
